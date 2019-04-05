@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXDocking_ClosedPanels/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXDocking_ClosedPanels/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXDocking_ClosedPanels/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_ClosedPanels/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXDocking_ClosedPanels/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXDocking_ClosedPanels/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create closed (hidden) panels
